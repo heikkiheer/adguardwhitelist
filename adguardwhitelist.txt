@@ -1,0 +1,10 @@
+!
+! Title: AdGuard DNS filter Whitelist
+! Description: Whitelist
+! Version: 1.0
+! Homepage: https://github.com/heikkiheer/adguardwhitelist
+! Last modified: 2025-08-28
+!
+!
+!
+||analytics.google.com
