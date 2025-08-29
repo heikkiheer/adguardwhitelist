@@ -8,3 +8,4 @@
 !
 !
 ||analytics.google.com
+||plausible.io
