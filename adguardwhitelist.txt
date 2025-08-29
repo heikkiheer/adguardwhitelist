@@ -9,4 +9,4 @@
 !
 ||analytics.google.com
 ||plausible.io
-||support.hpe.com
+||*.hpe.com
