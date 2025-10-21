@@ -10,4 +10,3 @@
 ||analytics.google.com
 ||plausible.io
 ||*.hpe.com
-||dpm.lol
