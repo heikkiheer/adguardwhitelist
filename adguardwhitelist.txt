@@ -11,3 +11,4 @@
 ||plausible.io
 ||*.hpe.com
 ||*.heikki.ch
+||*.post.ch
