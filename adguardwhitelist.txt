@@ -12,3 +12,4 @@
 ||*.hpe.com
 ||*.heikki.ch
 ||*.post.ch
+||*.google.com
