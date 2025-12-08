@@ -13,3 +13,4 @@
 ||*.heikki.ch
 ||*.post.ch
 ||*.google.com
+||eu.i.posthog.com
