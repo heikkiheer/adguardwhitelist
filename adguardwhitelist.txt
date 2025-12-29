@@ -10,7 +10,7 @@
 ||analytics.google.com
 ||plausible.io
 ||*.hpe.com
-||*.heikki.ch
+@@||*.heikki.ch
 ||*.post.ch
 ||*.google.com
 @@||eu.i.posthog.com
