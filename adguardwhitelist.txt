@@ -14,3 +14,5 @@
 ||*.post.ch
 ||*.google.com
 ||eu.i.posthog.com
+||dlcdnets.asus.com
+||nw-dlcdnet.asus.com
