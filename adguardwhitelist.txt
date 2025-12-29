@@ -18,3 +18,9 @@
 @@||nw-dlcdnet.asus.com^
 @@||dlcdnet.asus.com^
 @@||router.asus.com^
+@@||www.asusrouter.com^
+@@||www.asus.com^
+@@||asuscomm.com^
+@@||asuscomm.cn^
+@@||api.asus.com^
+@@||update.asus.com^
