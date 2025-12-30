@@ -24,3 +24,7 @@ asuscomm.com
 asuscomm.cn
 api.asus.com
 update.asus.com
+api.myuplink.com
+myuplink.com
+dev.myuplink.com
+www.myuplink.com 
