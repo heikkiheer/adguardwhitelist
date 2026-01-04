@@ -27,4 +27,6 @@ update.asus.com
 api.myuplink.com
 myuplink.com
 dev.myuplink.com
-www.myuplink.com 
+www.myuplink.com
+home.vzug.com
+api.vzug.com
