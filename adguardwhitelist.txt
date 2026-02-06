@@ -32,3 +32,4 @@ home.vzug.com
 api.vzug.com
 link.swoodoo.com
 *.brevo.net
+*.ariba.com
