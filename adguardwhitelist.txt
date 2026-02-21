@@ -36,3 +36,4 @@ link.swoodoo.com
 *.webflow.io
 plantworks-2.webflow.io/
 player.vimeo.com
+*.mailersend.net
