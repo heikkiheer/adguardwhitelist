@@ -35,3 +35,4 @@ link.swoodoo.com
 *.ariba.com
 *.webflow.io
 plantworks-2.webflow.io/
+player.vimeo.com
