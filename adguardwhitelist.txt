@@ -37,3 +37,4 @@ link.swoodoo.com
 plantworks-2.webflow.io/
 player.vimeo.com
 *.mailersend.net
+*.sendibm3.com
