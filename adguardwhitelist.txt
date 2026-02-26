@@ -40,6 +40,8 @@ player.vimeo.com
 *.sendibm3.com
 @@||*.tumnus.almemedia.tech^
 @@||*.tumnus.almemedia.fi^
+@@||assets.tunnus.almamedia.fi^
+@@||confs.tunnus.almamedia.fi^
 @@||*.nettivene.fi^
 @@||*.nettivene.com^
 ||tracker.leechers-paradise.org^$client='192.168.10.180'
