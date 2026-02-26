@@ -38,8 +38,8 @@ plantworks-2.webflow.io
 player.vimeo.com
 *.mailersend.net
 *.sendibm3.com
-@@||*.tumnus.almemedia.tech^
-@@||*.tumnus.almemedia.fi^
+@@||*.tunnus.almemedia.tech^
+@@||*.tunnus.almemedia.fi^
 @@||assets.tunnus.almamedia.fi^
 @@||confs.tunnus.almamedia.fi^
 @@||*.nettivene.fi^
