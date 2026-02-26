@@ -38,6 +38,7 @@ plantworks-2.webflow.io/
 player.vimeo.com
 *.mailersend.net
 *.sendibm3.com
+*.tumnus.almemedia.tech
 ||tracker.leechers-paradise.org^$client='192.168.10.180'
 @@||s2s.mparticle.com^$important
 @@||diag.meethue.com^$important
