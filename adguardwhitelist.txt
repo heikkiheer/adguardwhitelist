@@ -18,6 +18,9 @@ dcf.iitech.dk
 ||*.post.ch
 ||*.google.com
 @@||eu.i.posthog.com
+1337x.to
+1377x.to
+x1337x.cc
 dlcdnets.asus.com
 nw-dlcdnet.asus.com
 dlcdnet.asus.com
